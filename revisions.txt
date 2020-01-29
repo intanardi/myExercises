@@ -1,0 +1,6 @@
+In this file i will modify some text.
+
+the story is other programmer have a specific work to do.
+so he/she working some file for example he is going to create contact landing pages.
+so when he is done working he will comiit his new file or new modifying an existing file.
+when he already push it to branch call revision. then the other programmer can pull fron revision branch to update hiw working file
